@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+div{
+	width:200px;
+	height:200px;
+	background-color:lightblue;
+	border:2px solid black;
+	color:purple;
+	text-align:center;
+	align-content:center;
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50%, -50%);
+}
